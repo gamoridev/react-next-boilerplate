@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project boilerplate with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+To use it
+
+```
+yarn create next-app -e https://github.com/gamoridev/react-next-boilerplate
+```
 
 ## Getting Started
 
